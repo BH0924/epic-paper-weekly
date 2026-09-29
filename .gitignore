@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# 工作产物（不要把生成的 PPTX / PDF / 截图传上去）
+*.pptx
+*.pdf
+*.png
+*.jpg
+*.jpeg
+.lark-slides/
+.work/
